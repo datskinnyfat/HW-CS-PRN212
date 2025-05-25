@@ -1,0 +1,15 @@
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\bin\Debug\net9.0\HW.exe
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\bin\Debug\net9.0\HW.deps.json
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\bin\Debug\net9.0\HW.runtimeconfig.json
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\bin\Debug\net9.0\HW.dll
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\bin\Debug\net9.0\HW.pdb
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\obj\Debug\net9.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\obj\Debug\net9.0\HW.AssemblyInfoInputs.cache
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\obj\Debug\net9.0\HW.AssemblyInfo.cs
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\obj\Debug\net9.0\HW.csproj.CoreCompileInputs.cache
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\obj\Debug\net9.0\HW.sourcelink.json
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\obj\Debug\net9.0\HW.dll
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\obj\Debug\net9.0\refint\HW.dll
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\obj\Debug\net9.0\HW.pdb
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\obj\Debug\net9.0\HW.genruntimeconfig.cache
+D:\ProgrammingFiles\C#\FPT\prn212\01_intro\HW\obj\Debug\net9.0\ref\HW.dll
